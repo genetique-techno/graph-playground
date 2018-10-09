@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "highland": "^2.13.0",
+    "neo4j-driver": "^1.6.3",
+    "ramda": "^0.25.0"
+  }
 }
